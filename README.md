@@ -1,6 +1,8 @@
-# CountVotes
+# Elections (vote counter)
 
-**TODO: Add description**
+**TODO:**
+
+    Simple vote counter for elections (add election, add candidate, vote, etc..)
 
 ## Installation
 
